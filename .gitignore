@@ -1,4 +1,7 @@
 data/spatial_interstates_w_mobility.geojson
+data/interstates_with_charger_info.geojson
+data/interstates_for_testing.geojson
+data/zcta_shapefile
 .vscode
 cache
 .env
