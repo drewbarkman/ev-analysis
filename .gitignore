@@ -5,4 +5,5 @@ data/zcta_shapefile
 .vscode
 cache
 .env
-.ipynb_checkpointsdata/*.shp
+.ipynb_checkpoints
+data/*.shp
